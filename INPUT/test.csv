@@ -1,0 +1,11 @@
+﻿,Name,Energy,Color,Position,LineStyle,LineWidth,TopText,BottomText,RightText,LeftText,LinkTo,LinkLineStyle,LinkLineWidth,LinkLineColor
+0,T1 A',0,k,0,solid,2,T1 A',bottom,0,,,,,
+1,T1 A',1,k,0,solid,2,T2 A'',,1,,,,,
+2,T2 A'',5,red,0.5,dashed,2,S1 A',1⊿,5,,,,,
+3,T3 A''',5,blue,-0.5,dashdot,2,S2 A',1⊿,5,,,,,
+4,T4 A'''',10,k,0,dotted,2,T3 A',,10,,,,,
+5,Exp,8,green,-1,solid,2,,,,,,,,
+6,Exp,8,green,-0.5,dashed,2,,,,,,,,
+7,Exp,8,green,0,solid,2,,,,,,,,
+8,Exp,8,green,0.5,dashed,2,,,,,,,,
+9,Exp,8,green,1,dotted,2,Exp,,8,,,,,
